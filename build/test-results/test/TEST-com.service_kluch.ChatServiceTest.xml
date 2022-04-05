@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.service_kluch.ChatServiceTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-04-05T09:32:37" hostname="DESING" time="0.445">
+  <properties/>
+  <testcase name="chatService_createMessage" classname="com.service_kluch.ChatServiceTest" time="0.358"/>
+  <testcase name="chatService_MessageNotFoundException" classname="com.service_kluch.ChatServiceTest" time="0.004"/>
+  <testcase name="chatService_readChatByMessageId" classname="com.service_kluch.ChatServiceTest" time="0.003"/>
+  <testcase name="chatService_readChatByMessageCount" classname="com.service_kluch.ChatServiceTest" time="0.001"/>
+  <testcase name="chatService_deleteMessage" classname="com.service_kluch.ChatServiceTest" time="0.002"/>
+  <testcase name="chatService_editMessage" classname="com.service_kluch.ChatServiceTest" time="0.001"/>
+  <testcase name="chatService_deleteChat" classname="com.service_kluch.ChatServiceTest" time="0.073"/>
+  <testcase name="chatService_readChatById" classname="com.service_kluch.ChatServiceTest" time="0.001"/>
+  <testcase name="chatService_deleteLastMessage" classname="com.service_kluch.ChatServiceTest" time="0.0"/>
+  <testcase name="chatService_ChatNotFoundException" classname="com.service_kluch.ChatServiceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
