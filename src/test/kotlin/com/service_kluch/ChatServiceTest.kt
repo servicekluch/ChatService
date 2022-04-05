@@ -90,7 +90,7 @@ class ChatServiceTest {
         chatService.createMessage(fromId = 1, text = "Hello  World", toIdList = hashSetOf(2))
         val result = chatService.readChatByMessageCount(1).size
 
-        assertEquals(3, result)
+        assertEquals(2, result)
     }
 
     @Test(expected = ChatNotFoundException::class)
